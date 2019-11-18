@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/zHaytam/BehaviorTrees</PackageProjectUrl>
+    <Description>An implementation of Behavior Trees based on C# events</Description>
+    <RepositoryUrl>https://github.com/zHaytam/BehaviorTrees</RepositoryUrl>
+    <Copyright>zHaytam</Copyright>
+    <Authors>zHaytam</Authors>
+    <Company />
   </PropertyGroup>
 
   <ItemGroup>
